@@ -6,3 +6,15 @@ nuevas funcionalidades que mejoren esta librería.
 Es Open Source.
 
 Mira la documentación del API aqui http://docs.payments.4geeks.io
+
+
+Instalación
+===========
+
+```sh
+pip install gpayments
+```
+
+```sh
+easy_install gpayments
+```
