@@ -179,7 +179,3 @@ refund1 = gpayments.Refund.retrieve('1BlfcrCqnAMAMqhvdYEIoQAI')
 
 # Authors
 * **Sergio Guzmán** Adaptación de Stripe Library para Gpayments por: [SITCO](http://www.sitcocr.com)
-
-
-# Acknowledgments
-* Stripe Payments Python Library
